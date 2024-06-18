@@ -1,0 +1,48 @@
+.color-hint {
+    background: linear-gradient(rgb(167, 226, 242), 10%, rgb(233, 230, 230));
+  }
+  .contenedor {
+    display: flex;
+    border: 1px solid black;
+    margin: 2%;
+  }
+
+  .izquierda {
+    flex: 1;
+    margin: 3%;
+  }
+  .espacio {
+    flex: 1;
+  } 
+  .derecha {
+    display: flex;
+    margin: 3%;
+  } 
+  .derecha img {
+    margin-right: 10px;
+  } 
+  .menu {
+    border: 1px solid black;
+    margin: 2%;
+  }
+.f1{
+  display: flex;
+  justify-content: space-around;
+  margin: 1%;
+}
+.box-container {
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: 20px;
+}
+.box {
+    width: 200px;
+    height: 120px;
+    background-color: rgb(195, 238, 195);
+}
+.conjunto1{
+    margin: 2%;
+    
+}
+
